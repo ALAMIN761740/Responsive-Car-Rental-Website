@@ -3,7 +3,7 @@
 const Navbar = () => {
   return (
     <>
-      Navbar
+      <h1>nav</h1>
     </>
   )
 }

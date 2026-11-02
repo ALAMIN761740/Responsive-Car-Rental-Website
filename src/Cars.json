@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "name": "Luxora E-Class",
+    "type": "Luxury",
+    "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8",
+    "seats": "4 Seat",
+    "transmission": "Automatic",
+    "speed": "350 km/h",
+    "price": "110"
+  },
+  {
+    "id": "2",
+    "name": "BMW M4 Competition",
+    "type": "Sports",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e",
+    "seats": "4 Seat",
+    "transmission": "Automatic",
+    "speed": "290 km/h",
+    "price": "150"
+  },
+  {
+    "id": "3",
+    "name": "Audi A6 Premium",
+    "type": "Luxury",
+    "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6",
+    "seats": "5 Seat",
+    "transmission": "Automatic",
+    "speed": "250 km/h",
+    "price": "120"
+  },
+  {
+    "id": "4",
+    "name": "Tesla Model S",
+    "type": "Electric",
+    "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89",
+    "seats": "5 Seat",
+    "transmission": "Automatic",
+    "speed": "322 km/h",
+    "price": "140"
+  },
+  {
+    "id": "5",
+    "name": "Toyota Camry",
+    "type": "Sedan",
+    "image": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb",
+    "seats": "5 Seat",
+    "transmission": "Automatic",
+    "speed": "210 km/h",
+    "price": "65"
+  },
+  {
+    "id": "6",
+    "name": "Range Rover Sport",
+    "type": "SUV",
+    "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6",
+    "seats": "5 Seat",
+    "transmission": "Automatic",
+    "speed": "225 km/h",
+    "price": "180"
+  },
+  {
+    "id": "7",
+    "name": "Porsche 911 Carrera",
+    "type": "Sports",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+    "seats": "2 Seat",
+    "transmission": "Automatic",
+    "speed": "293 km/h",
+    "price": "200"
+  },
+  {
+    "id": "8",
+    "name": "Honda Civic",
+    "type": "Sedan",
+    "image": "https://images.unsplash.com/photo-1590362891991-f776e747a588",
+    "seats": "5 Seat",
+    "transmission": "Manual",
+    "speed": "200 km/h",
+    "price": "55"
+  },
+  {
+    "id": "9",
+    "name": "Hyundai Tucson",
+    "type": "SUV",
+    "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b",
+    "seats": "5 Seat",
+    "transmission": "Automatic",
+    "speed": "200 km/h",
+    "price": "85"
+  },
+  {
+    "id": "10",
+    "name": "Ferrari F8 Tributo",
+    "type": "Supercar",
+    "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae",
+    "seats": "2 Seat",
+    "transmission": "Automatic",
+    "speed": "340 km/h",
+    "price": "350"
+  },
+  {
+    "id": "11",
+    "name": "Mercedes-Benz S-Class",
+    "type": "Luxury",
+    "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8",
+    "seats": "5 Seat",
+    "transmission": "Automatic",
+    "speed": "250 km/h",
+    "price": "220"
+  },
+  {
+    "id": "12",
+    "name": "Lamborghini Huracan",
+    "type": "Supercar",
+    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c",
+    "seats": "2 Seat",
+    "transmission": "Automatic",
+    "speed": "325 km/h",
+    "price": "400"
+  },
+  {
+    "id": "13",
+    "name": "Jeep Wrangler",
+    "type": "SUV",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf",
+    "seats": "5 Seat",
+    "transmission": "Manual",
+    "speed": "180 km/h",
+    "price": "95"
+  },
+  {
+    "id": "14",
+    "name": "Ford Mustang GT",
+    "type": "Sports",
+    "image": "https://images.unsplash.com/photo-1584345604476-8ec5f452d1e9",
+    "seats": "4 Seat",
+    "transmission": "Automatic",
+    "speed": "250 km/h",
+    "price": "160"
+  },
+  {
+    "id": "15",
+    "name": "Range Rover Velar",
+    "type": "SUV",
+    "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b",
+    "seats": "5 Seat",
+    "transmission": "Automatic",
+    "speed": "217 km/h",
+    "price": "170"
+  },
+  {
+    "id": "16",
+    "name": "Nissan Altima",
+    "type": "Sedan",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+    "seats": "5 Seat",
+    "transmission": "Automatic",
+    "speed": "220 km/h",
+    "price": "60"
+  },
+  {
+    "id": "17",
+    "name": "BMW X5",
+    "type": "SUV",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+    "seats": "5 Seat",
+    "transmission": "Automatic",
+    "speed": "243 km/h",
+    "price": "130"
+  },
+  {
+    "id": "18",
+    "name": "Chevrolet Corvette",
+    "type": "Sports",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+    "seats": "2 Seat",
+    "transmission": "Automatic",
+    "speed": "312 km/h",
+    "price": "250"
+  },
+  {
+    "id": "19",
+    "name": "Kia Sportage",
+    "type": "SUV",
+    "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b",
+    "seats": "5 Seat",
+    "transmission": "Automatic",
+    "speed": "195 km/h",
+    "price": "75"
+  },
+  {
+    "id": "20",
+    "name": "Rolls-Royce Ghost",
+    "type": "Luxury",
+    "image": "https://images.unsplash.com/photo-1631295868223-63265b40d9e4",
+    "seats": "5 Seat",
+    "transmission": "Automatic",
+    "speed": "250 km/h",
+    "price": "500"
+  }
+]

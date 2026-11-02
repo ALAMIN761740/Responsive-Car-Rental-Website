@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "name": "Documents required for car rental",
+    "image": "https://images.unsplash.com/photo-1449963990581-4d8b5e9b6a1a",
+    "date": "April 17, 2025",
+    "author": "Martin C",
+    "category": "Cars"
+  },
+  {
+    "id": "2",
+    "name": "Top 10 tips for a perfect road trip",
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b",
+    "date": "April 20, 2025",
+    "author": "Sarah Johnson",
+    "category": "Travel"
+  },
+  {
+    "id": "3",
+    "name": "How to choose the best rental car",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7",
+    "date": "April 22, 2025",
+    "author": "David Wilson",
+    "category": "Cars"
+  },
+  {
+    "id": "4",
+    "name": "Luxury cars for your next vacation",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+    "date": "April 25, 2025",
+    "author": "Emily Carter",
+    "category": "Luxury"
+  },
+  {
+    "id": "5",
+    "name": "The benefits of renting an electric car",
+    "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89",
+    "date": "April 28, 2025",
+    "author": "Michael Brown",
+    "category": "Electric Cars"
+  },
+  {
+    "id": "6",
+    "name": "Best destinations for weekend getaways",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "date": "May 2, 2025",
+    "author": "Olivia Smith",
+    "category": "Travel"
+  },
+  {
+    "id": "7",
+    "name": "Car rental mistakes you should avoid",
+    "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+    "date": "May 5, 2025",
+    "author": "James Miller",
+    "category": "Tips"
+  },
+  {
+    "id": "8",
+    "name": "Why a convertible is perfect for summer",
+    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+    "date": "May 8, 2025",
+    "author": "Sophia Davis",
+    "category": "Luxury"
+  },
+  {
+    "id": "9",
+    "name": "Essential things to check before driving",
+    "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1",
+    "date": "May 12, 2025",
+    "author": "Daniel Taylor",
+    "category": "Safety"
+  },
+  {
+    "id": "10",
+    "name": "Affordable car rental options for travelers",
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8",
+    "date": "May 15, 2025",
+    "author": "Isabella Moore",
+    "category": "Travel"
+  },
+    {
+    "id": "11",
+    "name": "How to save money on your next car rental",
+    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c",
+    "date": "May 18, 2025",
+    "author": "Robert Anderson",
+    "category": "Tips"
+  },
+  {
+    "id": "12",
+    "name": "The ultimate guide to family road trips",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+    "date": "May 21, 2025",
+    "author": "Jessica White",
+    "category": "Travel"
+  },
+  {
+    "id": "13",
+    "name": "Understanding car rental insurance coverage",
+    "image": "https://images.unsplash.com/photo-1493238792000-8113da705763",
+    "date": "May 24, 2025",
+    "author": "Christopher Lee",
+    "category": "Insurance"
+  },
+  {
+    "id": "14",
+    "name": "Best cars for city driving in 2025",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2",
+    "date": "May 27, 2025",
+    "author": "Amanda Wilson",
+    "category": "Cars"
+  },
+  {
+    "id": "15",
+    "name": "Exploring hidden gems with a rental car",
+    "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "date": "May 30, 2025",
+    "author": "Ryan Martinez",
+    "category": "Travel"
+  },
+  {
+    "id": "16",
+    "name": "A beginner's guide to driving luxury cars",
+    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455",
+    "date": "June 2, 2025",
+    "author": "Daniel Clark",
+    "category": "Luxury"
+  },
+  {
+    "id": "17",
+    "name": "What to do when your rental car breaks down",
+    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3",
+    "date": "June 5, 2025",
+    "author": "Emma Thompson",
+    "category": "Safety"
+  },
+  {
+    "id": "18",
+    "name": "Electric vehicle rental: Everything you need to know",
+    "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7",
+    "date": "June 8, 2025",
+    "author": "Matthew Scott",
+    "category": "Electric Cars"
+  },
+  {
+    "id": "19",
+    "name": "Road trip essentials for every traveler",
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "date": "June 11, 2025",
+    "author": "Grace Taylor",
+    "category": "Travel"
+  },
+  {
+    "id": "20",
+    "name": "How to find the perfect car for your adventure",
+    "image": "https://images.unsplash.com/photo-1507136566006-cfc505b114fc",
+    "date": "June 14, 2025",
+    "author": "Benjamin Harris",
+    "category": "Cars"
+  }
+]
