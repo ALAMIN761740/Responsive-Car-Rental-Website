@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Joti+One&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap');
 
+
+
 @import "tailwindcss";
 
 :root{
@@ -18,4 +20,26 @@
 
     --transition-regular: 0.3s;
     --transition-slow: 0.6s;
+}
+
+.font-eb-garamond{
+    font-family: var(--Bricolage-font);
+}
+
+.font-joti-on{
+    font-family: var(--Joti-One-font);
+}
+
+.font-libre-baskerville{
+    font-family: var(--Libre-Baskerville-font);
+}
+
+html,
+body{
+    background-color: #111111;
+}
+
+
+.logo span{
+    color: var(--prim-color);
 }
